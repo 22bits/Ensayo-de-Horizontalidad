@@ -1,4 +1,4 @@
-{image 1}
+![edh_1](images/edh_1.png)
 
 <b>INTRODUCCIÓN</b>
 
@@ -8,7 +8,7 @@ Está pensado desde los clásicos secuenciadores del siglo XX, y reutilizados po
 
 La construcción de este algoritmo está basada en criterios del contrapunto, de las fugas de Bach y de los desfases propuestos en las obras de Steve Reich.
 
-{image 2}
+![edh_2](images/edh_2.png)
 
 Cada línea vertical representa un paso, y cada horizontal representa una pista. Un contador revisa cada paso de izquierda a derecha, y gatilla el sonido correspondiente a su pista cuando encuentra un 1, así, en la imagen anterior, en el primer paso activa las pistas 0 y 4, en el siguiente la 5, en la siguiente 1 y 4, y así sucesivamente...
 
